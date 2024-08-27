@@ -25,6 +25,7 @@ import mcomfinance from "./mcomfinance.PNG";
 import msw from "./msw.PNG";
 import coop from "./coop.PNG";
 import subject from "./subject.PNG";
+import fire from "./fire.png"
 
 export { 
     play, 
@@ -53,5 +54,5 @@ export {
     mcomfinance,
     msw,
     coop,
-    subject
+    subject,fire
 };
